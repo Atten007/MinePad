@@ -1,7 +1,16 @@
 # MinePad
-This is the repository for my Minecraft server software (and proxy software) that’s 100% written in Apple’s programming’s language Swift.
+This repository contains the code for the Minecraft server software "MinePad".
 
-MinePad will be available for all Minecraft PE versions starting with 1.20.0 (Trails & Tales Update).
-It will also be available for Java Edition in a future update.
+## What's MinePad?
+MinePad is a software for the default Minecraft (Java Edition), which is written in Swift. It's only compatible with current Minecraft 1.20.4.
 
-NOTE: If you don't have connection to your MinePad server, please check if the port number in the Serverconfig.yml file is opened on your router.
+## How to create a server?
+
+
+## How to develop plugins?
+
+
+## How to open the web interface?
+
+
+## Further development plans:
